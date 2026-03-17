@@ -10,25 +10,25 @@ The game is built using HTML, CSS, and JavaScript, making it lightweight and acc
 
 ### 📚 Table of Contents
 
-[Introduction](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-introduction)
+[Introduction](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-introduction)
 
-[Features](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-features)
+[Features](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-features)
 
-[Link](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-link)
+[Link](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-link)
 
-[Usage](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-usage)
+[Usage](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-usage)
 
-[Dependencies](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-dependencies)
+[Dependencies](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-dependencies)
 
-[Project Structure](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-project-structure)
+[Project Structure](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-project-structure)
 
-[Configuration](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-configuration)
+[Configuration](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-configuration)
 
-[Troubleshooting](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-troubleshooting)
+[Troubleshooting](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-troubleshooting)
 
-[Contributors](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-contributers)
+[Contributors](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-contributors)
 
-[License](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/main/README.md#-license)
+[License](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-license)
 
 ### ✨ Features
   • Play Rock, Paper, Scissors against the computer
