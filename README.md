@@ -10,25 +10,25 @@ The game is built using HTML, CSS, and JavaScript, making it lightweight and acc
 
 ### 📚 Table of Contents
 
-[Introduction](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-introduction)
+[Introduction](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-introduction)
 
-[Features](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-features)
+[Features](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-features)
 
-[Link](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-link)
+[Link](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-link)
 
-[Usage](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-usage)
+[Usage](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-usage)
 
-[Dependencies](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-dependencies)
+[Dependencies](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-dependencies)
 
-[Project Structure](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-project-structure)
+[Project Structure](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-project-structure)
 
-[Configuration](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-configuration)
+[Configuration](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-configuration)
 
-[Troubleshooting](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-troubleshooting)
+[Troubleshooting](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-troubleshooting)
 
-[Contributors](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-contributors)
+[Contributors](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-contributors)
 
-[License](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors/tree/main?tab=readme-ov-file#-license)
+[License](https://github.com/P1x3l-W0lf/Rock-Paper-Scissors#-license)
 
 ### ✨ Features
   • Play Rock, Paper, Scissors against the computer
@@ -96,14 +96,18 @@ If you want to modify the game:
 
 ### 🛠️ Troubleshooting
 
-Game not loading properly?
-  • Make sure you are using a modern browser (Chrome, Edge, Firefox, Safari)
+#### Game not loading properly?
 
-Buttons not responding?
+  • Make sure you are using a modern browser (Chrome, Edge, Firefox, Safari)
+  
+#### Buttons not responding?
+
   • Check that JavaScript is enabled in your browser
 
-Confetti not loading?
+#### Confetti not loading?
+
   • Ensure you have an internet connection
+  
   • make sure reduced motion is disabled
 
 ### 👥 Contributors
