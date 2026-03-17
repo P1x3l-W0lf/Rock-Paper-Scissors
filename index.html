@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h3>Rock -+- Paper -+- Scissors</h3>
+
+<div id="choice">
+    <button onclick="game('Rock')">Rock</button>
+    <button onclick="game('Paper')">Paper</button>
+    <button onclick="game('Scissors')">Scissors</button>
+</div>
+
+<div id="text">
+<div id="player">Player: </div>
+<div id="computer">Computer: </div>
+<div id="result">Wins: <p id="wins">0</p> | Losses: <p id="losses">0</p> | Ties: <p id="ties">0</p></div>
+<div id="message"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+<script src="index.js"></script>
+</body>
+</html>
